@@ -1,5 +1,5 @@
 # Análise de Dados Econômicos com FRED e Python 
-### Indicadores Macroeconômicos e Performance de MercadoPerformance
+### Indicadores Macroeconômicos e Performance de Mercado
 
 Projeto de análise macroeconômica utilizando a API do **FRED (Federal Reserve Economic Data)**, com foco na relação entre mercado financeiro e indicadores do mercado de trabalho dos Estados Unidos.
 
@@ -90,5 +90,6 @@ Avaliação da participação da força de trabalho para identificar se quedas n
 - Taxa de participação é essencial para interpretar corretamente a taxa de desemprego.
 - Indicadores do mercado de trabalho podem apresentar relação com ciclos do mercado acionário.
 ---
+
 
 ![Desemprego](desemprego.png)
