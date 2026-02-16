@@ -91,5 +91,14 @@ Avaliação da participação da força de trabalho para identificar se quedas n
 - Indicadores do mercado de trabalho podem apresentar relação com ciclos do mercado acionário.
 ---
 
+## Aprendizado:
+
+Este projeto foi desenvolvido acompanhando a aula disponível neste vídeo: https://www.youtube.com/watch?v=R67XuYc9NQ4.
+Ao longo do projeto, aprofundei meus conhecimentos em conceitos e técnicas importantes 
+Recomendo fortemente para quem deseja evoluir seus estudos em Data Analytics e Pandas.
 
 ![Desemprego](desemprego.png)
+
+
+
+
